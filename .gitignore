@@ -1,0 +1,10 @@
+# Virtual enviroments
+server/venv
+model/venv
+
+# IDE folders
+.idea
+
+# Python cache
+__pycache__/
+*.pyc
